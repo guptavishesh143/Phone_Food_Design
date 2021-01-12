@@ -7,7 +7,7 @@ This Design is Made for Showing the Best User Experience from web view to mobile
 If you want to share or upload anywhere, 
 Don't forget to give the **_Credits and Appreciation._**
 
-Copyright to Vishesh Gupta
+Copyright to **_Vishesh Gupta_**
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
