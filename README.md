@@ -1,5 +1,5 @@
 # Phone_Food_Design
-These Designs are not for **_Commercial and ##Personal Use._**
+These Designs are not for **_Commercial and Personal Use._**
 
 This Design is Made for Showing the Best User Experience from web view to mobile view.
 
