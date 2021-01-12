@@ -1,17 +1,15 @@
 # Phone_Food_Design
-These Designs are not for ##Commercial and ##Personal Use.
+These Designs are not for **_Commercial and ##Personal Use._**
 
 This Design is Made for Showing the Best User Experience from web view to mobile view.
 
 
 If you want to share or upload anywhere, 
-Don't forget to give the ##Credits and ##Appreciation.
+Don't forget to give the **_Credits and Appreciation._**
 
 Copyright to Vishesh Gupta
 
-
-
-
+___________________________________________________________________________________________________________________________________________________________________________________
 
 
 
